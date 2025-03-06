@@ -2,6 +2,9 @@
 
 An automated bot for FireverseAI Music platform. This bot helps automate daily music listening tasks, including liking songs and commenting.
 
+## Registry accounts
+https://web3.fireverseai.com/login/?invite=SML4KA&url=https://app.fireverseai.com/user
+
 ## 🌟 Features
 
 - Multi-account support
